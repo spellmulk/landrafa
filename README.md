@@ -42,7 +42,7 @@ sudo git clone https://github.com/codewithsadee/fitlife.git
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/fitlife.git
+git clone https://github.com/awm/fitlife.git
 ```
 
 ### Contact
